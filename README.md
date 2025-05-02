@@ -2,7 +2,7 @@
 
 Hello, GitHub! 👋
 
-I'm Dalan Weber, a student at Brigham Young University-Idaho interested in Software Engineering, specifically game development. Welcome to my GitHub profile!
+I'm Dalan Weber, a student at Brigham Young University-Idaho interested in Software Engineering, specifically web development. Welcome to my GitHub profile!
 
 ## About Me
 
